@@ -1,0 +1,39 @@
+h1{
+    color:blue;
+}
+
+h2{
+    background-color: aquamarine;
+}
+
+h3{
+    opacity: .5;
+}
+h4{
+    color:bisque;
+}
+
+header{
+    font-style: oblique;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#orderedlist{
+    color:green;
+}
+
+#unorderedlist{
+    color:blueviolet
+}
+
+
+#username{
+
+    margin-left: 500px; 
+}
+
+
+
